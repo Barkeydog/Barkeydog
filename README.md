@@ -19,19 +19,4 @@ I explore fascinating mathematical problems including:
 - 🧮 **Brocard's Problem** - Working on n! + 1 = m²
 - 💰 **Algorithmic Investing** - Applying math to financial models
 
-### Previous Animations
-
-<details>
-<summary>Conway's Game of Life (Click to expand)</summary>
-
-<div align="center">
-  <img src="cellular_automata.gif" alt="Cellular Automata Animation" width="500">
-</div>
-
-*Classic cellular automaton showing emergent patterns from simple rules*
-
-</details>
-
----
-
-*Animations created with generative algorithms and computational art techniques*
+LookPrime pypi Libary: [![PyPI Downloads](https://static.pepy.tech/personalized-badge/lookprime?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/lookprime)
