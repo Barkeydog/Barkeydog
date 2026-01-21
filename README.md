@@ -19,4 +19,5 @@ I explore fascinating mathematical problems including:
 - 🧮 **Brocard's Problem** - Working on n! + 1 = m²
 - 💰 **Algorithmic Investing** - Applying math to financial models
 
-LookPrime pypi Libary: [![PyPI Downloads](https://static.pepy.tech/personalized-badge/lookprime?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/lookprime)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/betterlist?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=betterlist+downloads)](https://pepy.tech/projects/betterlist)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/lookprime?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=lookprime+downloads)](https://pepy.tech/projects/lookprime)
