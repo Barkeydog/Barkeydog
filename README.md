@@ -11,4 +11,5 @@ I explore problems including:
 
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/betterlist?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=betterlist+downloads)](https://pepy.tech/projects/betterlist)
 [![PyPI Downloads](https://static.pepy.tech/personalized-badge/lookprime?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=lookprime+downloads)](https://pepy.tech/projects/lookprime)
-[![npm downloads per month](https://img.shields.io/npm/dm/minefit?color=0f766e)](https://www.npmjs.com/package/minefit)
+[![npm Downloads](https://img.shields.io/npm/dt/minefit?style=for-the-badge&label=minefit%20downloads&labelColor=000000&color=16a34a)](https://www.npmjs.com/package/minefit)
+
